@@ -23,4 +23,4 @@ cd rgpm
 
 Make sure you have Python 3.x and the latest versions of Pytorch and Pytorch Geometric installed.
 
-You can run the experiments from the original paper with the scripts [dataset]-[k].py
+You can run the experiments from Tables 1,2,3 from the original paper with the scripts [dataset]-[k].py
